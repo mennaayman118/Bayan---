@@ -6,6 +6,8 @@ Allowing deaf and non-verbal users to express themselves using sign language, tr
 ---
 ## Google drive link
 (https://drive.google.com/drive/u/2/folders/1rYXa22hJcjcmuUrw32jGgMyZ4F96iZoR)
+## Figma link
+https://www.figma.com/team_invite/redeem/UEAJlPN9FhhASa6trSYMrA?t=vXYmbjeEfc2T7s84-21
 ***
 ## Team Members
 - Menna Ayman Elsayed
