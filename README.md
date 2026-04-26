@@ -19,32 +19,44 @@ https://www.figma.com/team_invite/redeem/UEAJlPN9FhhASa6trSYMrA?t=vXYmbjeEfc2T7s
 ***
 ## Roles and Responsibilities
 ### UX Research
-**Taha & Donia**
+**Taha**
 - Competitors Analysis
 - Market Research
-- 5Ws Key
-- Key Attributes
-- Business Model
+- persona 1
+  
+**Donia**
+- Competitors Analysis
+- Empathy map 2
+- Problem Statement 2
+- Solution 2
 
-**Menna & Mahetab**
+**Rahma**
+- 5Ws Key 
+- Empathy map 1
+- Problem Statement 1 
+- Solution 1
+
+**Menna**
 - Survey  
+- Users Interview
+- Survey Questions
+
+**Mahetab**
 - Stakeholder Questions  
 - Interview Questions  
-- Survey Questions
-- Affinity map
-- Insights
+- persona 2
 
-**Maram & Rahma**
-- Persona
-- Empathy map
-- Problem Statement
-- Solution
+**Maram**
+- Key Attributes
 - User Journey Map
 
 **All**
-- Card Sorting
+- Business model 
 - Site Map
 - User Flow
+
+### UI
+
 ***
   ## Instructor name
   ## Eng.Mohamed Kamar
