@@ -6,10 +6,19 @@ Allowing deaf and non-verbal users to express themselves using sign language, tr
 ---
 ## Google drive link
 (https://drive.google.com/drive/u/2/folders/1rYXa22hJcjcmuUrw32jGgMyZ4F96iZoR)
-## figma link (🔍 UX Process - 💥 Inspiration - ✏️ Sketch - 🎯 Wireframes - 💡  Design System - ✍🏼 UI Design - 📱  Prototype - 🎨 Presention)
+## figma link (UX Process - Inspiration - Sketch - Wireframes - Design System - UI Design - Prototype - Presention)
 https://www.figma.com/design/hr0ebdFZ0PMynQ02IATumk/Bayan-App?node-id=4086-33883&t=Z65o65xfA6tHFuuS-1
 ### Behance link
 
+***
+## Team Members
+- Menna Ayman Elsayed (Leader)
+- Taha Mohamed Taha  
+- Maram Mohamed Abdelmadjid  
+- Mahetab Tarek Eid 
+- Donia Ebrahem Elmetwaly
+- Rahma Ahmed Hemdan
+***
 ## Work Plan
 
 **1-Research & Analysis**
@@ -43,15 +52,6 @@ Mobile app Design
 - Presentation PDF
 - Upload to GitHub
 
-***
-## Team Members
-- Menna Ayman Elsayed (Leader)
-- Taha Mohamed Taha  
-- Maram Mohamed Abdelmadjid  
-- Mahetab Tarek Eid 
-- Donia Ebrahem Elmetwaly
-- Rahma Ahmed Hemdan
-***
 ## Roles and Responsibilities
 ### UX Research
 **Taha**
@@ -95,22 +95,22 @@ Mobile app Design
 
 ### UI
 **Maram**
-Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+Secondary: Wireframes, color palletes, typography, , Prototype, Case Study, skitch
 
 **Menna**
-Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
 
 **Mahetab**
-Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, skitch
 
 **Donia**
-Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
 
 **Rahma**
-Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
 
 **Taha**
-Secondary: Visual design(website& mobile),Tennis profile Home Screen, Prototype, Case Study, GitHub
+Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
 
 ***
   ## Instructor name
