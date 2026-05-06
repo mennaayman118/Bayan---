@@ -95,22 +95,22 @@ Mobile app Design
 
 ### UI
 **Maram**
-Secondary: Wireframes, color palletes, typography, , Prototype, Case Study, skitch
+Wireframes, color palletes, typography, , Prototype, Case Study, skitches
 
 **Menna**
-Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
+Wireframes,color palletes, typography, , Prototype, Case Study, GitHub
 
 **Mahetab**
-Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, skitch
+Wireframes, color palletes, typography, , Prototype, Case Study, Mockups
 
 **Donia**
-Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
+Wireframes, color palletes, typography, , Prototype, Case Study, Avatars
 
 **Rahma**
-Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
+Wireframes, color palletes, typography, , Prototype, Case Study, Mockups
 
 **Taha**
-Secondary: Wireframes,Tennis profile Home Screen, Prototype, Case Study, GitHub
+Wireframes, color palletes, typography, , Prototype, Case Study, Avatars
 
 ***
   ## Instructor name
