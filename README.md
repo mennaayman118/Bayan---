@@ -12,7 +12,7 @@ https://www.figma.com/design/hr0ebdFZ0PMynQ02IATumk/Bayan-App?node-id=4086-33883
 
 ***
 ## Team Members
-- Menna Ayman Elsayed (Leader)
+- Menna Ayman Elsayed 
 - Taha Mohamed Taha  
 - Maram Mohamed Abdelmadjid  
 - Mahetab Tarek Eid 
@@ -96,22 +96,22 @@ Mobile app Design
 
 ### UI
 **Maram**
-Wireframes, color palletes, typography, , Prototype, Case Study, skitches
+Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, skitches
 
 **Menna**
-Wireframes,color palletes, typography, , Prototype, Case Study, GitHub
+Wireframes,color palletes, typography, , Prototype, Case Study, Dark Mode, GitHub
 
 **Mahetab**
-Wireframes, color palletes, typography, , Prototype, Case Study, Mockups
+Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Mockups
 
 **Donia**
-Wireframes, color palletes, typography, , Prototype, Case Study, Avatars
+Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Avatars
 
 **Rahma**
-Wireframes, color palletes, typography, , Prototype, Case Study, Mockups
+Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Mockups
 
 **Taha**
-Wireframes, color palletes, typography, , Prototype, Case Study, Avatars
+Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Avatars
 
 ***
   ## Instructor name
