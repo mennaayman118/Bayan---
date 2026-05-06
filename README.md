@@ -52,6 +52,7 @@ Mobile app Design
 - Presentation PDF
 - Upload to GitHub
 
+***
 ## Roles and Responsibilities
 ### UX Research
 **Taha**
