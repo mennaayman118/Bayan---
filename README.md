@@ -96,22 +96,22 @@ Mobile app Design
 
 ### UI
 **Maram**
-Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, skitches
+Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, skitches
 
 **Menna**
-Wireframes,color palletes, typography, , Prototype, Case Study, Dark Mode, GitHub
+Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, GitHub
 
 **Mahetab**
-Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Mockups
+Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, Mockups
 
 **Donia**
-Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Avatars
+Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, Avatars
 
 **Rahma**
-Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Mockups
+Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, Mockups
 
 **Taha**
-Wireframes, color palletes, typography, , Prototype, Case Study, Dark Mode, Avatars
+Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, Avatars
 
 ***
   ## Instructor name
