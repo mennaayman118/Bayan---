@@ -113,6 +113,10 @@ Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, Mockup
 **Taha**
 Wireframes, typography, color palletes, Prototype, Case Study, Dark Mode, Avatars
 
+- PS: We all participated with each other in arranging the latest UI Screens
+
+
+
 ***
   ## Instructor name
   ## Eng.Mohamed Kamar
